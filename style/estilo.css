@@ -1,0 +1,330 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	
+	background-color: #FFFAFA;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+#top_area{
+	margin: 0px;
+	padding: 0px;
+}
+
+.local_icons{
+	font-size: 24px;
+	margin-right: 8px;
+	margin-top: 0px;
+}
+
+.local_adress{
+	font-size: 11px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+.social_media_icon{
+	font-size: 24px;
+	margin-left: 35px;
+}
+
+.menu_link:hover{
+	padding-bottom:0px;
+	border-bottom: 2px solid white;
+}
+.page-select{
+	padding-bottom:0px;
+	border-bottom: 2px solid lightgray;
+	font-weight: 900;
+}
+
+#top_menu{
+	margin: 0px;
+	padding: 0px;
+	background-color: #B00014;
+}
+
+.carrousel_size{
+	margin: 0px;
+	padding: 0px;
+}
+
+.carousel-inner > .carousel-item > img{
+	position: relative;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+}
+
+.overtitles{
+	color: #8B8682;
+}
+
+.titles{
+	color:#B00014;
+	margin-bottom: 30px;
+}
+
+.partners{
+	margin-top: 55px;
+}
+
+.partners-logo img{
+	width: 170px;
+	height: 70px;
+}
+
+#items-tittle{
+	color:#B00014;
+	font-weight: 900;
+}
+
+.footer{
+	margin: 0px;
+	padding: 0px;
+	background-color: #B00014;
+
+}
+
+.map-tittle{
+	color: white;
+	font-weight: 900;
+}
+
+.map-limit{
+	margin: 0px;
+	padding: 0px;
+}
+
+.under-address{
+	color: white;
+}
+
+.catalogo-limit{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+#catalogo{
+	
+	margin: 0px;
+	padding: 0px;
+
+	max-width: 102.3%;
+	height: 100%;
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 366px) { 
+
+	.partners-logo img{
+		margin-left: auto;
+	}
+
+	.menu-logo{
+		width: 190px;
+	}
+
+	.local_adress{
+		font-size: 8px;
+		margin-right: 6px;
+		font-weight: bold;
+	}
+
+	.local_icons{
+		font-size: 10px;
+		margin-right: 4px;
+	}
+
+	.social_media_icon{
+		font-size: 15px;
+		margin-left: 5px;
+	}
+
+	.carousel-inner > .carousel-item > img{
+		width: 250px;
+	}
+
+	.partners-logo{
+		margin-top: 10px;
+	}
+
+	.partners-logo img{
+		width: 55px;
+		height: 35px;
+	}
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		margin-right: 20px;
+
+		width: 107%;
+		height: 100%;
+	}		
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 415px) { 
+
+	.partners-logo img{
+		margin-left: auto;
+	}
+
+	.menu-logo{
+		width: 190px;
+	}
+
+	.carousel-inner > .carousel-item > img{
+		width: 250px;
+	}
+
+	.partners-logo{
+		margin-top: 10px;
+	}
+
+	.partners-logo img{
+		width: 55px;
+		height: 35px;
+	}
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		margin-right: 20px;
+
+		min-width: 106.3%;
+		height: 100%;
+	}	
+}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+
+	.local_icons{
+		font-size: 14px;
+		margin-right: 4px;
+	}
+
+	.social_media_icon{
+		font-size: 20px;
+		margin-left: 10px;
+	}
+
+	.carousel-inner > .carousel-item > img{
+		height: 150px;
+	}
+
+	.partners-logo{
+		margin-top: 10px;
+	}
+
+	.partners-logo img{
+		width: 110px;
+		height: 35px;
+	}
+
+	.map{
+		width: 125%;
+		height: 70%;
+	}
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		min-width: 105.9%;
+		height: 100%;
+	}	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+	.local_icons{
+		font-size: 14px;
+		margin-right: 4px;
+	}
+
+	.social_media_icon{
+		font-size: 20px;
+		margin-left: 20px;
+	}
+
+	.carousel-inner > .carousel-item > img{
+		height: 170px;
+	}
+
+	.partners-logo img{
+		width: 180px;
+		height: 45px;
+	}
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		min-width: 104.2%;
+		height: 100%;
+	}		
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {  
+
+
+	.carousel-inner > .carousel-item > img{
+		height: 240px;
+	}
+
+	.partners-logo img{
+		width: 110px;
+		height: 65px;
+	}
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		min-width: 103.3%;
+		height: 100%;
+	}	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+
+	.carousel-inner > .carousel-item > img{
+		height: 310px;
+	}	
+
+	.partners-logo img{
+		width: 140px;
+	}
+
+
+	#catalogo{
+	
+		margin: 0px;
+		padding: 0px;
+
+		min-width: 102.7%;
+		height: 100%;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  
+
+
+}

@@ -162,7 +162,8 @@ html,body{
 
 		margin-right: 20px;
 
-		
+		width: 107%;
+		height: 100%;
 	}		
 }
 
@@ -197,7 +198,8 @@ html,body{
 
 		margin-right: 20px;
 
-		
+		min-width: 106.3%;
+		height: 100%;
 	}	
 }
 
@@ -239,7 +241,8 @@ html,body{
 		margin: 0px;
 		padding: 0px;
 
-		
+		min-width: 105.9%;
+		height: 100%;
 	}	
 }
 
@@ -270,7 +273,8 @@ html,body{
 		margin: 0px;
 		padding: 0px;
 
-		
+		min-width: 104.2%;
+		height: 100%;
 	}		
 }
 

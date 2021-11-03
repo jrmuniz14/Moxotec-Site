@@ -162,7 +162,6 @@ html,body{
 
 		margin-right: 20px;
 
-		width: 107%;
 		
 	}		
 }
@@ -198,7 +197,6 @@ html,body{
 
 		margin-right: 20px;
 
-		min-width: 106.3%;
 		
 	}	
 }
@@ -241,7 +239,6 @@ html,body{
 		margin: 0px;
 		padding: 0px;
 
-		min-width: 105.9%;
 		
 	}	
 }
@@ -273,8 +270,7 @@ html,body{
 		margin: 0px;
 		padding: 0px;
 
-		min-width: 104.2%;
-		height: 100%;
+		
 	}		
 }
 

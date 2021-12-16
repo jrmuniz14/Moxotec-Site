@@ -12,15 +12,20 @@ html,body{
 }
 
 .local_icons{
-	font-size: 24px;
+	font-size: 28px;
 	margin-right: 8px;
 	margin-top: 0px;
+	color: #B00014;
 }
 
 .local_adress{
-	font-size: 11px;
-	margin-right: 10px;
+	font-size: 14px;
+	margin-right: 20px;
 	font-weight: bold;
+}
+.local_adress a{
+	text-decoration: none;
+	color: #B00014;
 }
 
 .social_media_icon{
@@ -127,17 +132,24 @@ html,body{
 	}
 
 	.local_adress{
-		font-size: 8px;
-		margin-right: 6px;
+		position: relative;
+		left: -20px;
+		font-size: 5px;
+		margin: 0px;
 		font-weight: bold;
+		padding:0px;
 	}
 
 	.local_icons{
-		font-size: 10px;
-		margin-right: 4px;
+		position: relative;
+		font-size: 8px;
+		margin: 0px;
+		padding:0px;
 	}
 
 	.social_media_icon{
+		position: relative;
+		right: -17px;
 		font-size: 15px;
 		margin-left: 5px;
 	}
@@ -178,6 +190,23 @@ html,body{
 		width: 190px;
 	}
 
+	.local_adress a{
+		position: relative;
+		left: -10px;
+		font-size: 7px;
+		margin-right: 0px;
+		padding: 0px;
+		font-weight: bold;
+	}
+
+	.local_icons{
+		position: relative;
+		left: -10px;
+		font-size: 14px;
+		margin-right: 4px;
+		padding: 0px;
+	}
+
 	.carousel-inner > .carousel-item > img{
 		width: 250px;
 	}
@@ -205,7 +234,13 @@ html,body{
 
 
 /*Extra small devices (portrait phones, less than 576px)*/
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
+
+	.local_adress{
+		font-size: 8px;
+		margin-right: 6px;
+		font-weight: bold;
+	} 
 
 
 	.local_icons{

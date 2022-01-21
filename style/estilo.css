@@ -4,6 +4,8 @@ html,body{
 	
 	background-color: #FFFAFA;
 	font-family: Trebuchet MS, sans-serif;
+
+	overflow-x: hidden; /*esconde barras de rolagem na horizontal, se existirem*/
 }
 
 #top_area{
@@ -113,6 +115,11 @@ html,body{
 
 .partners-limit{
 
+	margin: 0px;
+	padding: 0px;
+}
+
+.destaques-limit{
 	margin: 0px;
 	padding: 0px;
 }

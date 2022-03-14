@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"rem",
+				"removeMosquito"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mo",
+				"mosquito"
+			],
+			[
+				"la",
+				"ladoAleatorio"
+			],
+			[
+				"s",
+				"scaleX()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"po",
+				"posY"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"mt",
+				"mt-5"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ani",
+				"animeScroll"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"translate",
+				"translate3d()\ttransform"
+			],
+			[
+				"animation-d",
+				"animation-direction\tproperty"
+			],
+			[
+				"te",
+				"text-danger"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"sh",
+				"shadow-lg"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"img-",
+				"img-fluid"
+			],
+			[
+				"ca",
+				"carrousel_size"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"r",
+				"round\tbackground-repeat"
+			],
+			[
+				"re",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"d-",
+				"d-inline-block"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"carouse",
+				"carousel-control-prev"
+			],
+			[
+				"magin",
+				"margin-right\tproperty"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"tex",
+				"text-danger"
+			],
+			[
+				"flex",
+				"flex-column"
+			],
+			[
+				"marc",
+				"marcador-container"
+			],
+			[
+				"dis",
+				"display-3"
+			],
+			[
+				"media",
+				"media-body"
+			],
+			[
+				"card",
+				"card-header"
+			],
+			[
+				"page",
+				"page-link"
+			],
+			[
+				"table",
+				"table-bordered"
+			],
+			[
+				"tabl",
+				"table-sm"
+			],
+			[
+				"table-bord",
+				"table-bordered"
+			],
+			[
+				"tab",
+				"table-striped"
+			],
+			[
+				"thea",
+				"thead-dark"
+			],
+			[
+				"prog",
+				"progress-bar"
+			],
+			[
+				"pro",
+				"progress-bar"
+			],
+			[
+				"a",
+				"alert-primary"
+			],
+			[
+				"inpu",
+				"input-group-text"
+			],
+			[
+				"inp",
+				"input-group-prepend"
+			],
+			[
+				"in",
+				"input-group-append"
+			],
+			[
+				"i",
+				"input-group-append"
+			],
+			[
+				"inv",
+				"invalid-feedback"
+			],
+			[
+				"is",
+				"is-invalid"
+			],
+			[
+				"form-c",
+				"form-control"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"custom",
+				"custom-file"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"form-co",
+				"form-control-"
+			],
+			[
+				"bre",
+				"breadcrumb-item"
+			],
+			[
+				"bread",
+				"breadcrumb-item"
+			],
+			[
+				"lis",
+				"list-group-item-"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"fixed",
+				"fixed-top"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"bg",
+				"bg-success"
+			],
+			[
+				"felx",
+				"flex-start\tjustify-content"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"magi",
+				"margin-left\tproperty"
+			],
+			[
+				"mag",
+				"margin-bottom\tproperty"
+			],
+			[
+				"lisst",
+				"list-style-type\tproperty"
+			],
+			[
+				"t",
+				"text-shadow\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wiD",
+				"width\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"pag",
+				"padding\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"valor",
+				"valor_visor"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"btn-",
+				"btn-warning"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"n",
+				"numeros"
+			],
+			[
+				"onres",
+				"onresize\tAttr"
+			],
+			[
+				"onmo",
+				"onmouseup\tAttr"
+			],
+			[
+				"car",
+				"carousel-inner"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mt-",
+				"mt-5"
+			],
+			[
+				"cold",
+				"col-md-4"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"fa-",
+				"fa-lg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/junio/Desktop/Códigos/WEB/ES6/var_let.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/jogo.js",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/app.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/gameover.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/estilo.css",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/index.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/vitoria.html",
+		"/C/Users/junio/Desktop/index.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/GameMosquito/estiloover.css",
+		"/C/Users/junio/Desktop/Moxotec/index.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_onushorelinesh901.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_cabocftvmxtec.html",
+		"/C/Users/junio/Desktop/Moxotec/app.js",
+		"/C/Users/junio/Desktop/Moxotec/stores.html",
+		"/C/Users/junio/Desktop/Moxotec/about-us.html",
+		"/C/Users/junio/Desktop/Moxotec/style/estilo-stores.css",
+		"/C/Users/junio/Desktop/Moxotec/style/estilo-about-us.css",
+		"/C/Users/junio/Desktop/Moxotec/style/estilo.css",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_cabocftvnext.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_caixa24fo.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_conectorTclicAPC.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_dropmxtec.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_dropnext.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_fibra12fonext.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_fontejfa6a.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_maquinafusaonext.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_onu.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_onu3001.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_onunext81s.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_supapreto.html",
+		"/C/Users/junio/Desktop/Moxotec/img/produto_page/CABO CFTV NEXT.jpg",
+		"/C/Users/junio/Desktop/Moxotec/index.php",
+		"/C/Users/junio/Desktop/Moxotec/categories/padrao.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_conectorTclic.html",
+		"/C/Users/junio/Desktop/Moxotec/product-pages/product_drop.html",
+		"/C/Users/junio/Desktop/Moxotec/product_onu.html",
+		"/C/Users/junio/Desktop/Moxotec/sellers.html",
+		"/C/Users/junio/Desktop/Moxotec/app/server.js",
+		"/C/Users/junio/Desktop/Moxotec/app/index.html",
+		"/C/Users/junio/Desktop/Moxotec/server.js",
+		"/C/Users/junio/Desktop/Moxotec/package.json",
+		"/C/Users/junio/Desktop/Moxotec/procfile",
+		"/C/Users/junio/Desktop/Moxotec/style/estilo-sellers.css",
+		"/C/Users/junio/Desktop/Moxotec/style/estilo-sellers",
+		"/C/Users/junio/Desktop/Moxotec/sellers",
+		"/C/Users/junio/Desktop/logomarcas/LOGO 270X90 ALTA.png",
+		"/C/Users/junio/Desktop/RELEMBRANDO/finans/index.html",
+		"/C/Users/junio/Desktop/sidebar-07/index.html",
+		"/C/Users/junio/Desktop/sidebar-07/css/style.css",
+		"/C/Users/junio/Desktop/sidebar-07/teste.html",
+		"/C/Users/junio/Desktop/sidebar-07/js/jquery.min.js",
+		"/C/Users/junio/Desktop/sidebar-07/js/main.js",
+		"/C/Users/junio/Desktop/sidebar-07/js/bootstrap.min.js",
+		"/C/Users/junio/Desktop/sidebar-07/js/popper.js",
+		"/C/Users/junio/Desktop/RELEMBRANDO/da_roca/vertical.css",
+		"/C/Users/junio/Desktop/RELEMBRANDO/da_roca/menuvertical.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/da_roca/index.html",
+		"/C/Users/junio/Desktop/RELEMBRANDO/da_roca/estilo.css",
+		"/C/Users/junio/Desktop/RELEMBRANDO/da_roca/scripts.js",
+		"/C/Users/junio/Desktop/RELMEBRANDO/projeto padrão com bootstrap4/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/margin-wrap.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/classes-flexbox.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/alinhamento-grid.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/grid.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/configuracoes-grid.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/alin-textos.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/icones.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/icones",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/jumbotron-alinhamento-imagens.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/cartoes-parte1.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/tabelas-paginacao.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/alertas-barra-progresso.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/input-group.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/formularios.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/listas.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/barra-navegacao.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/botoes.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/apoio-botoes.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/tamanhos e bordas.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/margin-padding.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/cores-backG.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/elementos-flut.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/form-texto.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/form-html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap - estudos/form-textos.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/bootstrap-4.1.3/base.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/museu/stile.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/museu/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/parallax/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/parallax/index.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/noticascidade/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/noticascidade/stilo.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/prática/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/prática/vertical.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/prática/horizontal.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/prática/menuhorizontal.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/prática/menuvertical.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/technoblog/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/technoblog/stile.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/anaBela/stile.css",
+		"/C/Users/junio/Desktop/RELMEBRANDO/anaBela/index.html",
+		"/C/Users/junio/Desktop/RELMEBRANDO/anaBela/index.sublime-project",
+		"/C/Users/junio/Desktop/RELMEBRANDO/anaBela/campanhas.html",
+		"/C/Users/junio/Desktop/WEB-Amanda/projetoUnes/index.html",
+		"/C/Users/junio/Desktop/WEB-Amanda/projetoUnes/quemsomos.html",
+		"/C/Users/junio/Desktop/WEB-Amanda/projetoUnes/contato.html",
+		"/C/Users/junio/Desktop/WEB-Amanda/projetoUnes/stile.css",
+		"/C/Users/junio/Desktop/WEB-Amanda/aula 1/index.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/carousel/apoio-carousel.html",
+		"/C/Users/junio/bootcamp/estudos_js/index.html",
+		"/C/Users/junio/bootcamp/index.html",
+		"/C/Users/junio/bootcamp/estudos_javascript/index.html",
+		"/C/Users/junio/bootcamp/estudos_javascript/.git/COMMIT_EDITMSG",
+		"/C/Users/junio/bootcamp/.git/COMMIT_EDITMSG",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/estudos_dom.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/array.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/Calc/estilo.css",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/Calc/index.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/Calc/index2.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/estudos_dom_4_mod_class.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/estudos_dom_3_mod_style.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/estudos_dom_2.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/eventos_teclado.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/eventos_formulario.html",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/estudos_dom",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/eventos_formulario",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/script_principal.js",
+		"/C/Users/junio/Desktop/Códigos/WEB/JavaScript/estudos-js/eventos_janela.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
